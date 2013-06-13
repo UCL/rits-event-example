@@ -10,3 +10,5 @@ Content
 -------
 
 Mountains can be climbed.
+
+Mountains can also be skied down.
