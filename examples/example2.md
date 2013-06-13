@@ -8,4 +8,6 @@ categories: [examples]
 
 Here is some markdown content in UCL style.
 
+An example extra comment
+
 [Link to another page](../)
